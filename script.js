@@ -107,7 +107,7 @@ scene("gameover", (score) => {
   sprite("background", {width: width(), height: height()})
   ]);
   add([
-    text("Game Over"),
+    text("Non :)))"),
     pos(width() / 2, 100),
     origin("center"),
     scale(0.7),
