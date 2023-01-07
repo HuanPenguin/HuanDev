@@ -5,7 +5,7 @@ kaboom();
 
 // load assets
 loadSprite("bird", "bird.png");
-loadSprite("background", "background.png");
+loadSprite("background", "background2.png");
 loadSprite("pipe", "pipe.png");
 loadSound("hit", "hit.ogg");
 loadSound("point", "point.ogg");
